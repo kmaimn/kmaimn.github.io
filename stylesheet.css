@@ -32,8 +32,8 @@ a:hover {
 .education h2{
 	background-color: rgba(255, 153, 0, 0.6);
 	border: 2px solid #000;
-	border-radius: 15px;
-	width: 250px;
+	border-radius: 0px 15px 15px 0px;
+	width: 200px;
 }
 
 .education h3{
@@ -45,7 +45,10 @@ a:hover {
 }
 
 .experience h2{
-	border-bottom: 2px solid #000;
+	background-color: rgba(255, 153, 0, 0.6);
+	border: 2px solid #000;
+	border-radius: 0px 15px 15px 0px;
+	width: 350px;
 }
 
 .examples h3{
