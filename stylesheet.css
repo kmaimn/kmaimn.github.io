@@ -16,6 +16,13 @@ html, body {
 	line-height: 1px;
 	}
 
+a {
+	color: white;
+}	
+a:hover {
+	color: black;
+}
+
 #name {
 	font-size: 30px;
 	line-height: 1px;
