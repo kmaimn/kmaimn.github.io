@@ -3,6 +3,7 @@ html, body {
 	width: 95%;
 	height: 100%;
 	background-color: #d0d0d0;
+	background: linear-gradient(to bottom, #d0d0d0, #ffffff);
 	margin: 0 auto;
 	margin-top: 10px;
 }
@@ -19,6 +20,7 @@ html, body {
 	font-size: 30px;
 	line-height: 1px;
 	font-weight: bold;
+	text-shadow: 5px 5px #fff000;
 }	
 
 .education h2{
