@@ -10,7 +10,7 @@ html, body {
 #header {
 	text-align: center;
 	background-color: #ffa500;
-	background: radial-gradient(#ffa500, #000);
+	background: radial-gradient(#ffa500, #FFF);
 	border: 2px solid #000;
 	line-height: 1px;
 	}
