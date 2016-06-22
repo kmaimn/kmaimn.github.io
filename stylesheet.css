@@ -22,7 +22,12 @@ html, body {
 }	
 
 .education h2{
-	border-bottom: 2px solid #000;
+	background-color: #ffa500;
+	border: 2px solid #000;
+	border-radius 15px;
+	line-height: 1px;
+	
+	
 }
 
 .education h3{
