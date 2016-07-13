@@ -7,7 +7,7 @@ html, body {
 	margin-top: 10px;
 }
 
-#header {
+header {
 	text-align: center;
 	background-color: rgba(255, 153, 0, 0.6);
 	color: rgba(0, 0, 0, 0.8);
@@ -63,7 +63,7 @@ a:hover {
 	line-height: 1px;
 }
 
-#footer {
+footer {
 	text-align: center;
 	background-color: rgba(255, 153, 0, 0.6);
 	color: rgba(0, 0, 0, 0.8);
