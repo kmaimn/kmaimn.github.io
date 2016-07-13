@@ -29,7 +29,7 @@ a:hover {
 	font-weight: bold;
 }	
 
-.education h2{
+.education h1{
 	background-color: rgba(255, 153, 0, 0.6);
 	color: rgba(0, 0, 0, 0.8);	
 	border: 2px solid #000;
@@ -38,7 +38,7 @@ a:hover {
 	width: 147px;
 }
 
-.education h3{
+.education h2{
 	line-height: 5px;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 	line-height: 1px;
 }
 
-.experience h2{
+.experience h1{
 	background-color: rgba(255, 153, 0, 0.6);
 	color: rgba(0, 0, 0, 0.8);	
 	border: 2px solid #000;
@@ -55,7 +55,7 @@ a:hover {
 	width: 356px;
 }
 
-.examples h3{
+.examples h2{
 	line-height: 5px;
 }
 
